@@ -5,7 +5,7 @@ pkg install update && upgrade
 
 pkg install phpcurl wget git
 
-git clone https://github.com/carlcodings/carlphisher.git
+git clone https://github.com/carlcodings/carlphisher
 
 cd carlphisher
 
